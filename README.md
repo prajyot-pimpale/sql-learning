@@ -20,7 +20,7 @@ database (MySQL/PostgreSQL/SQLite/SQL Server) does something differently.
 |---|--------|--------|
 | 01 | [Basics](./01-basics/README.md) — what SQL is, RDBMS concepts, SQL sublanguages | ✅ |
 | 02 | [DDL](./02-ddl/README.md) — CREATE, ALTER, DROP, TRUNCATE | ✅ |
-| 03 | DML — INSERT, UPDATE, DELETE | ⏳ |
+| 03 | [DML](./03-dml/README.md) — INSERT, UPDATE, DELETE | ✅ |
 | 04 | Queries & Filtering — SELECT, WHERE, ORDER BY, LIMIT | ⏳ |
 | 05 | Joins — INNER, LEFT, RIGHT, FULL, SELF, CROSS | ⏳ |
 | 06 | Aggregation — GROUP BY, HAVING, aggregate functions | ⏳ |
@@ -30,7 +30,12 @@ database (MySQL/PostgreSQL/SQLite/SQL Server) does something differently.
 | 10 | Views & Indexes | ⏳ |
 | 11 | Transactions — COMMIT, ROLLBACK, ACID, isolation | ⏳ |
 | 12 | Advanced — window functions, CTEs, stored procedures, triggers | ⏳ |
+<!--
+📄 Also see [notes.md](./notes.md) — a condensed cheat sheet covering every module.
 
+**Status: all 12 modules complete.** 🎉
+ -->
+ 
 ## Suggested daily workflow
 1. Read the module's `README.md` fully (concept first, then examples).
 2. Open `queries.sql`, run every query yourself — don't just read it.
