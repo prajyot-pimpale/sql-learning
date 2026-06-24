@@ -21,7 +21,7 @@ database (MySQL/PostgreSQL/SQLite/SQL Server) does something differently.
 | 01 | [Basics](./01-basics/README.md) — what SQL is, RDBMS concepts, SQL sublanguages | ✅ |
 | 02 | [DDL](./02-ddl/README.md) — CREATE, ALTER, DROP, TRUNCATE | ✅ |
 | 03 | [DML](./03-dml/README.md) — INSERT, UPDATE, DELETE | ✅ |
-| 04 | Queries & Filtering — SELECT, WHERE, ORDER BY, LIMIT | ⏳ |
+| 04 | [Queries & Filtering](./04-queries-filtering/README.md) — SELECT, WHERE, ORDER BY, LIMIT | ✅ |
 | 05 | Joins — INNER, LEFT, RIGHT, FULL, SELF, CROSS | ⏳ |
 | 06 | Aggregation — GROUP BY, HAVING, aggregate functions | ⏳ |
 | 07 | Subqueries — scalar, correlated, EXISTS, IN | ⏳ |
