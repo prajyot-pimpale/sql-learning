@@ -23,8 +23,8 @@ database (MySQL/PostgreSQL/SQLite/SQL Server) does something differently.
 | 03 | [DML](./03-dml/README.md) — INSERT, UPDATE, DELETE | ✅ |
 | 04 | [Queries & Filtering](./04-queries-filtering/README.md) — SELECT, WHERE, ORDER BY, LIMIT | ✅  |
 | 05 | [Joins](./05-joins/README.md) — INNER, LEFT, RIGHT, FULL, SELF, CROSS | ✅ |
-| 06 | Aggregation — GROUP BY, HAVING, aggregate functions | ⏳ |
-| 07 | Subqueries — scalar, correlated, EXISTS, IN | ⏳ |
+| 06 | [Aggregation](./06-aggregation/README.md) — GROUP BY, HAVING, aggregate functions | ✅ |
+| 07 | [Subqueries](./07-subqueries/README.md) — scalar, correlated, EXISTS, IN | ✅ |
 | 08 | Functions — string, numeric, date, conditional | ⏳ |
 | 09 | Constraints & Keys — PK, FK, UNIQUE, CHECK, NOT NULL | ⏳ |
 | 10 | Views & Indexes | ⏳ |
