@@ -25,16 +25,16 @@ database (MySQL/PostgreSQL/SQLite/SQL Server) does something differently.
 | 05 | [Joins](./05-joins/README.md) — INNER, LEFT, RIGHT, FULL, SELF, CROSS | ✅ |
 | 06 | [Aggregation](./06-aggregation/README.md) — GROUP BY, HAVING, aggregate functions | ✅ |
 | 07 | [Subqueries](./07-subqueries/README.md) — scalar, correlated, EXISTS, IN | ✅ |
-| 08 | Functions — string, numeric, date, conditional | ⏳ |
-| 09 | Constraints & Keys — PK, FK, UNIQUE, CHECK, NOT NULL | ⏳ |
+| 08 | [Functions](./08-functions/) — string, numeric, date, conditional | ✅ |
+| 09 | [Constraints & Keys](./09-constraints-keys/) — PK, FK, UNIQUE, CHECK, NOT NULL | ✅ |
 | 10 | Views & Indexes | ⏳ |
 | 11 | Transactions — COMMIT, ROLLBACK, ACID, isolation | ⏳ |
 | 12 | Advanced — window functions, CTEs, stored procedures, triggers | ⏳ |
 <!--
 📄 Also see [notes.md](./notes.md) — a condensed cheat sheet covering every module.
-
-**Status: all 12 modules complete.** 🎉
+📄 [Interview Prep — 64 Questions](./interview-prep/sql-interview-questions.md) — covers every module, with answers and example queries.
  -->
+**Status: all 09 modules complete.** 🎉
  
 ## Suggested daily workflow
 1. Read the module's `README.md` fully (concept first, then examples).
