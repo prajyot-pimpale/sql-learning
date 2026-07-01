@@ -27,10 +27,16 @@ database (MySQL/PostgreSQL/SQLite/SQL Server) does something differently.
 | 07 | [Subqueries](./07-subqueries/README.md) — scalar, correlated, EXISTS, IN | ✅ |
 | 08 | [Functions](./08-functions/) — string, numeric, date, conditional | ✅ |
 | 09 | [Constraints & Keys](./09-constraints-keys/) — PK, FK, UNIQUE, CHECK, NOT NULL | ✅ |
-| 10 | Views & Indexes | ⏳ |
-| 11 | Transactions — COMMIT, ROLLBACK, ACID, isolation | ⏳ |
+| 10 | [Views & Indexes](./10-views-indexes/README.md) | ✅ |
+| 11 | [Transactions](./11-transactions/README.md) — COMMIT, ROLLBACK, ACID, isolation | ✅ |
 | 12 | Advanced — window functions, CTEs, stored procedures, triggers | ⏳ |
+| 13 | Set Operations & Extras — UNION, INTERSECT, EXCEPT, pivoting, GRANT/REVOKE | ⏳ |
+| 14 | Database Design Basics — normalization, ER modeling | ⏳ |
 <!--
+| 12 | [Advanced](./12-advanced/README.md) — window functions, CTEs, stored procedures, triggers | ✅ |
+| 13 | [Set Operations & Extras](./13-set-operations-extras/README.md) — UNION, INTERSECT, EXCEPT, pivoting, GRANT/REVOKE | ✅ |
+| 14 | [Database Design Basics](./14-database-design/README.md) — normalization, ER modeling | ✅ |
+ 
 📄 Also see [notes.md](./notes.md) — a condensed cheat sheet covering every module.
 📄 [Interview Prep — 64 Questions](./interview-prep/sql-interview-questions.md) — covers every module, with answers and example queries.
  -->
